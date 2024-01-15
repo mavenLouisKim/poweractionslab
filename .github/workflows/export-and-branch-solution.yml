@@ -26,7 +26,7 @@ on:
 env:
 #edit your values here
   ENVIRONMENT_URL: 'https://admin.powerplatform.microsoft.com/environments/environment/236033a9-8098-ea45-8c9e-c461acaa2281/hub'
-  CLIENT_ID: '856888a8-d0c0-465f-9aff-5d1990645167'
+  CLIENT_ID: 'a060993f-9a1a-4c23-9cb9-b363fcdde867'
   TENANT_ID: '7e690d9b-1d20-4ffa-9f25-338e21d75b50'
 permissions:
   contents: write
